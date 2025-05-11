@@ -1,0 +1,2 @@
+config SHIELD_GUARDIAN_REMOTE
+    def_bool $(shields_list_contains,guardian_remote)

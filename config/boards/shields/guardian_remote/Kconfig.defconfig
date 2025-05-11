@@ -1,0 +1,6 @@
+if SHIELD_GUARDIAN_REMOTE
+
+config ZMK_KEYBOARD_NAME
+    default "guardian_remote"
+
+endif
