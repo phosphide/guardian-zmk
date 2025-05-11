@@ -9,10 +9,10 @@
 
     default_layer {
       bindings = <
-        &kp A
-        &bt BT_CLR
-        &kp C
-        &kp D
+        &kp F1
+        &kp F2
+        &kp F3
+        &kp F4
       >;
     };
   };
